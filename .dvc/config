@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/FabioCLima/Deploying-a-Scalable-ML-Pipeline-with-FastAPI.dvc
