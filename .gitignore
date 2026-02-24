@@ -176,4 +176,10 @@ pyrightconfig.json
 # FastAPI setup
 fastapi/
 
+/notebooks
+
+/specific markdown files
+PROJECT_STUDY_DURING_PROJECT_ONGOING.md
+PROJECT_STUDY_DURING_PROJECT_ONGOING.pdf
+
 # End of https://www.toptal.com/developers/gitignore/api/python
